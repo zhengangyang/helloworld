@@ -20,5 +20,3 @@
 操作示例：
 
     $ git clone git://github.com/gotgithub/helloworld.git
-    
-mailto:yang@163.com
